@@ -1,4 +1,0 @@
-D:/Documents/Github/JSON_PATTERN/build/CMakeFiles/leptjson.dir
-D:/Documents/Github/JSON_PATTERN/build/CMakeFiles/leptjson_test.dir
-D:/Documents/Github/JSON_PATTERN/build/CMakeFiles/ALL_BUILD.dir
-D:/Documents/Github/JSON_PATTERN/build/CMakeFiles/ZERO_CHECK.dir
